@@ -1,0 +1,18 @@
+# Data — raw source is large; users re-download from OWID
+data/raw/*.csv
+!data/raw/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Power BI temp files
+*.pbix.bak

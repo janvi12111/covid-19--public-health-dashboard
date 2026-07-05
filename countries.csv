@@ -1,0 +1,31 @@
+country_id,country_name,region,population
+1,Argentina,South America,45510324
+2,Belgium,Europe,11655923
+3,Brazil,South America,215313504
+4,Canada,North America,38454328
+5,Colombia,South America,51874028
+6,Czech Republic,Europe,10493990
+7,France,Europe,67813000
+8,Germany,Europe,83369840
+9,India,Asia,1417173120
+10,Indonesia,Asia,275501344
+11,"Iran, Islamic Republic of",Asia,88550568
+12,Iraq,Asia,44496124
+13,Italy,Europe,59037472
+14,Japan,Asia,123951696
+15,Malaysia,Asia,33938216
+16,Mexico,North America,127504120
+17,Netherlands,Europe,17564020
+18,Peru,South America,34049588
+19,Philippines,Asia,115559008
+20,Poland,Europe,39857144
+21,Portugal,Europe,10270857
+22,Russian Federation,Europe,144713312
+23,South Africa,Africa,59893884
+24,Spain,Europe,47558632
+25,Thailand,Asia,71697024
+26,Turkey,Asia,85341248
+27,Ukraine,Europe,39701744
+28,United Kingdom,Europe,67508936
+29,United States,North America,338289856
+30,Viet Nam,Asia,98186856
