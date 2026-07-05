@@ -100,7 +100,11 @@ animated "spread over time" story.
 
 After building, export these PNGs into the repo `images/` folder:
 
-- `03_powerbi_dashboard_overview.png` — full page 1
-- `03_powerbi_map_view.png` — map visual close-up
-- `03_powerbi_trend_view.png` — new-cases + MA overlay
-- `03_powerbi_country_compare.png` — multi-line comparison
+- <img width="2240" height="840" alt="02_python_wow_growth_heatmap" src="https://github.com/user-attachments/assets/d20c752a-a0b8-4496-9e1c-2f1f29e4aea6" />
+ — full page 1
+- <img width="1680" height="980" alt="02_python_top10_countries" src="https://github.com/user-attachments/assets/cc652948-7308-4c06-a5c8-43b19f0685de" /> <img width="1540" height="980" alt="02_python_vax_vs_mortality" src="https://github.com/user-attachments/assets/474d6349-db84-4b46-bf5e-f407786905c8" />
+
+ — new-cases + MA overlay
+- <img width="1960" height="980" alt="02_python_trend_lines" src="https://github.com/user-attachments/assets/3f87675b-bee4-4705-bb61-043b1c51a411" /> <img width="1960" height="980" alt="02_python_moving_average_overlay" src="https://github.com/user-attachments/assets/115d2a40-0afe-4316-ac4b-f070a3491338" />
+
+ — multi-line comparison
